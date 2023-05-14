@@ -51,4 +51,5 @@ print(reduceFunc)
 
 var containsFunc = allBooks.contains{ $0.title == "Rich Dad Poor Dad"  }
 print(containsFunc)
+//print
 
